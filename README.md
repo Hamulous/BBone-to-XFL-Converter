@@ -1,13 +1,12 @@
 # BBone to XFL Converter
 
-This tool is a fork of [SproutNan's .bbone decompiler](https://github.com/SproutNan/BBone_Decom) which converts PvZ2 `.bbone` skeleton/animation files and associated sprites into Adobe Animate XFL projects.  
-(It is primarily intended to convert `.bbone` files found [here](https://github.com/map220v/TencentPvZOL/tree/main/GameRes/swf/td/anmi).)
+This tool is a fork of [SproutNan's .bbone decompiler](https://github.com/SproutNan/BBone_Decom) which converts PvZ2 `.bbone` skeleton/animation files and associated sprites into Adobe Animate XFL projects. (It is primarily intended to convert `.bbone` files found [here](https://github.com/map220v/TencentPvZOL/tree/main/GameRes/swf/td/anmi).) This also takes into account that you have knowlegde with PvZ2's animation format with this script doing all of your dirty work.
 
 ---
 
 ## NOTICE
 
-This project is a **work in progress**. Many features may not function as intended due to limited testing.  
+This project is a **work in progress**. Many features may not function as intended due to limited testing. 
 If you encounter any issues, please create an issue on this project’s repository or contact me on Discord (`hamulous`).
 
 ---
