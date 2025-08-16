@@ -143,11 +143,11 @@ def decode_animation_chunk(data: bytes) -> Dict[str, Any]:
     }
 
 def get_animation_json(data: bytes):
-    print("正在解码动画数据...")
+    print("Decoding animation data...")
     try:
         decoded_data = decode_animation_chunk(data)
     except Exception as e:
-        print(f"解码动画数据时出现错误: {e}")
+        print(f"Error decoding animation data: {e}")
         import traceback
         traceback.print_exc()
         return
